@@ -17,6 +17,6 @@ It represents a web development course with modern ui design.
 A basic calculator built using HTML,CSS and JavaScript.
 It can perform funndamental arithmetic operation like addition, substraction, multiplication and division.
 
-- *Live Link:* [Click here to view Landing Page](https://lokhandeyash46-boop.github.io/CODSOFT/Calculator-Task-3/)
+- *Live Link:* [Click here to view calculator](https://lokhandeyash46-boop.github.io/CODSOFT/Calculator-Task-3/)
 
 
