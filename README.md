@@ -16,7 +16,7 @@ It represents a web development course with modern ui design.
 
 ## Task 3: Calculator
 A basic calculator built using HTML, CSS and JavaScript.
-It can perform fundamental arithmetic operation like addition, substraction, multiplication and division.
+It can perform fundamental arithmetic operation like addition, subtraction, multiplication and division.
 
 - *Live Link:* [Click here to view calculator](https://lokhandeyash46-boop.github.io/CODSOFT/Calculator-Task-3)
 
