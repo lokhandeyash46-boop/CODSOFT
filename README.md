@@ -11,6 +11,6 @@ A personal portfolio website built using HTML and CSS, showcasing my skills and 
 This task includes a landing  page created using HTML and CSS. 
 It represents a web development course with modern ui design.
 
-- *Live Link:* [Click here to view my Portfolio](https://lokhandeyash46-boop.github.io/CODSOFT/Course-Landing-Page/)
+- *Live Link:* [Click here to view Landing Page](https://lokhandeyash46-boop.github.io/CODSOFT/Course-Landing-Page/)
 
 
